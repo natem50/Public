@@ -12,7 +12,6 @@ try {
 }
 
 # Define the specific domain to search
-# $domain = "jhl.thg"
 $domain = Read-Host "Please enter the domain you want to search"
 
 # Define the path for the CSV output

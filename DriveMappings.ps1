@@ -1,6 +1,7 @@
 <#
 script pulls all drive mappings contained in GPO's
-!!!! Note: Change $domain to pull specific drive mappings for each domain !!!! 
+!!!! Note: Script will prompt you for the domain you wish to search !!!! 
+Recommended to be run as your Z- account
 written on 20240813 by NCM
 #>
 

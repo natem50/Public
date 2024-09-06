@@ -1,7 +1,7 @@
 <#
 script pulls all drive mappings contained in GPO's
 !!!! Note: Script will prompt you for the domain you wish to search !!!! 
-Recommended to be run as your Z- account
+Recommended to be run with elevated account permissions
 written on 20240813 by NCM
 #>
 
